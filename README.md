@@ -30,3 +30,7 @@ npm run start:dev
 ```
 http://localhost:3000/api/seed
 ```
+8. Ver documentacion RESTFUL API en el NAVEGADOR (RECOMENDADO PARA VER LOS ENDPOINTS)
+```
+http://localhost:3000/api
+```
